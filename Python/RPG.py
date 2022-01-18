@@ -1,12 +1,7 @@
 #  File:                RPG.py
-#  Description:         Role playging game
-#  Student's Name:      Ben Doherty
-#  Student's UT EID:    bjd2332
-#  Course Name:         CS 313E 
-#  Unique Number:       51826
-#
-#  Date Created:        2/11/2019
-#  Date Last Modified:  2/12/2019
+#  Description:         Auto Role playging game
+#  Name:                Ben Doherty
+
 
 
 class Weapon:

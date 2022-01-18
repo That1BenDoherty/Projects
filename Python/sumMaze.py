@@ -1,12 +1,6 @@
 #  File:                sumMaze.py
 #  Description:         Find path through maze using depth first search
-#  Student's Name:      Ben Doherty
-#  Student's UT EID:    bjd2332
-#  Course Name:         CS 313E 
-#  Unique Number:       51826
-#
-#  Date Created:        4/17/2019
-#  Date Last Modified:  4/17/2019
+#Name:                  Ben Doherty
 
 ##############################################################################
 import copy

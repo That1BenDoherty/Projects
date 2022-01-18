@@ -1,12 +1,7 @@
 #  File:                War.py
-#  Description:         War card game
-#  Student's Name:      Ben Doherty
-#  Student's UT EID:    bjd2332
-#  Course Name:         CS 313E 
-#  Unique Number:       51826
-#
-#  Date Created:        2/19/2019
-#  Date Last Modified:  2/27/2019
+#  Description:         Auto War card game
+#  Name:                Ben Doherty
+
 
 ##################################################################
 import random
